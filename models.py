@@ -78,4 +78,4 @@ def classifier (i):
   
 models=['knn','NB','LoG','DT','RF']
 for m in models:
-  print(classifier(m))
+  print(classifier(m)) 
